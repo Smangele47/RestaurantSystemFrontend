@@ -108,7 +108,7 @@ public class FindAllMealGUI implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
 
-            //When Display all button is clicked
+
             if (e.getActionCommand().equals("View All Meals")) {
 
                 httpsmethods httpsmethods = new httpsmethods();

@@ -158,7 +158,7 @@ public class AddMealGUI implements ActionListener {
             String MealStatus = txtMealStatus.getText();
 
 
-            //booleans for checking valid input
+
             boolean MealNameCheck;
 
             if (!MealName.matches("[a-zA-Z0-9]+")) {

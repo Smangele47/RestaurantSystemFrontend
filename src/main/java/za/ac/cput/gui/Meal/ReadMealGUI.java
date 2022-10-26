@@ -169,7 +169,7 @@ public class ReadMealGUI implements ActionListener {
                 txtTakeAway.setText(mea.getTakeAway());
             }
 
-            //When Delete Button is clicked
+
             if (e.getActionCommand().equals("Delete")) {
                 //Store textfield text in string
                 String id = txtMealCode.getText();

@@ -21,7 +21,7 @@ public class UpdateMealGUI implements ActionListener {
         Meal meal;
 
         public UpdateMealGUI() {
-            //Font
+
             headingFont = new Font("Arial", Font.BOLD, 18);
 
             //Panels

@@ -152,7 +152,7 @@ public class MealMenuGUI implements ActionListener {
                 updateMealGUI.setGUI();
             }
 
-            //When Update Meal Button is clicked
+
             if (e.getActionCommand().equals("Delete Meal Record")) {
                 DeleteMealGUI deleteMealGUI = new DeleteMealGUI();
                 deleteMealGUI.setGUI();

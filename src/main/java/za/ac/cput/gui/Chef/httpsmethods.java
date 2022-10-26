@@ -25,7 +25,7 @@ public class httpsmethods {
                                  String ChefSalary,
                                  String MealStatus) {
 
-            //Use parameters to build new Item
+            //Use parameters to build new Items
             Chef chef = ChefFactory.createChef( ChefID, ChefName, ChefGender, ChefSalary, MealStatus);
 
             //Url used to create new Item

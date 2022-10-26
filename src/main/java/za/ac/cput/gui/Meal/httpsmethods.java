@@ -114,7 +114,7 @@ public class httpsmethods {
             //Url used to get All Items
             String url = MainUrl+"/findAll";
 
-            //Applying Password and username to headers
+
             headers.setBasicAuth("user","password");
 
             //HttpEntity

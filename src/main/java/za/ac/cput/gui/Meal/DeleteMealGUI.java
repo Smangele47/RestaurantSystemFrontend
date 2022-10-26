@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 public class DeleteMealGUI implements ActionListener {
 
-        //Initializing Components
+
     Meal meal;
         private JFrame DeleteMealFrame;
         private JPanel DeleteMealPanelNorth, DeleteMealPanelSouth, DeleteMealPanelEast, DeleteMealPanelWest, DeleteMealPanelCenter;

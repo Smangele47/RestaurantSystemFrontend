@@ -116,7 +116,7 @@ public class FindAllChefGUI implements ActionListener {
                 //Create set to store method output
                 Set<Chef> chefs = httpsmethods.getChef(); // change backend
 
-                //Display set in text area
+
                 ChefTextArea.setText(String.valueOf(chefs));
             }
 

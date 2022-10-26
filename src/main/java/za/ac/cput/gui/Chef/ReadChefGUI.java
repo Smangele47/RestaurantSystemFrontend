@@ -41,7 +41,7 @@ public class ReadChefGUI implements ActionListener {
             //Heading
             lblHeading = new JLabel("Enter Chef ID", JLabel.CENTER);
 
-            //Labels
+
             lblChefID = new JLabel("ChefID:");
             lblChefName= new JLabel("ChefName:");
             lblChefGender = new JLabel("ChefGender:");

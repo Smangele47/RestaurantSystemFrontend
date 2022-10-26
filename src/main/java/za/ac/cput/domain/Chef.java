@@ -31,7 +31,7 @@ public class Chef implements Serializable {
 
     }
 
-    //Constructor
+
     public Chef(String chefID, String chefName, String chefGender, String chefSalary, String mealStatus) {
         this.chefID = chefID;
         this.chefName = chefName;

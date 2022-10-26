@@ -148,7 +148,7 @@ public class DeleteChefGUI implements ActionListener {
             }
 
 
-            //When Clear Button is clicked
+
             if (e.getActionCommand().equals("Clear")) {
                 txtChefID.setText("");
             }

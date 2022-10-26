@@ -140,7 +140,7 @@ public class UpdateChefGUI implements ActionListener {
             btnClear.addActionListener(this);
             btnReturn.addActionListener(this);
 
-            //Set GUI:
+            //Set GUI
             UpdateItemFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             UpdateItemFrame.pack();
             UpdateItemFrame.setSize(450, 500);
