@@ -1,4 +1,4 @@
-package za.ac.cput;
+package za.ac.cput.gui.Jody.ReceptionistGui;
 
 /*
     Main.java
@@ -6,7 +6,6 @@ package za.ac.cput;
     Date: October 2022
 */
 
-import za.ac.cput.gui.main.RestaurantSystemGUI;
 
 import za.ac.cput.gui.Jody.RestaurantSystemGUI;
 
