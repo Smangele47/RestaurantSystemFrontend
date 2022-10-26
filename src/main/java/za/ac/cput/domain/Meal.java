@@ -31,7 +31,7 @@ public class Meal implements Serializable {
         this.mealStatus = builder.mealStatus;
     }
 
-    //Constructor
+    //Constructors
     public Meal(String mealName, String mealCode, String mealPrice, String takeAway, String mealStatus) {
         this.mealName = mealName;
         this.mealCode = mealCode;

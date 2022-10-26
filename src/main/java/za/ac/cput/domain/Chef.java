@@ -40,7 +40,7 @@ public class Chef implements Serializable {
         this.mealStatus = mealStatus;
     }
 
-    //Getters and Setters
+    //Getters and Setter
     public String getChefID() {
         return chefID;
     }

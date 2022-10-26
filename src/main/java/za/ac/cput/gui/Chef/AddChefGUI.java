@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 public class AddChefGUI implements ActionListener {
 
 
-    //Initializing Components
+    //Initializing Componentss
     private JFrame SaveChefFrame;
     private JPanel SaveChefPanelNorth, SaveChefPanelSouth, SaveChefPanelEast, SaveChefPanelWest, SaveChefPanelCenter;
     private JLabel lblHeading;

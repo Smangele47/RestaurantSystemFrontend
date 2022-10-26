@@ -161,7 +161,7 @@ public class ReadMealGUI implements ActionListener {
                 Meal mea = httpmethods.findMeal(id);
                 System.out.println(mea);
 
-                //Item parameters are assigned to textfields
+                //Item parameters are assigned to textfield
                 txtMealCode.setText(mea.getMealCode());
                 txtMealName.setText(mea.getMealName());
                 txtMealPrice.setText(mea.getMealPrice());

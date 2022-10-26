@@ -152,7 +152,7 @@ public class ChefMenuGUI implements ActionListener {
                 updateChefGUI.setGUI();
             }
 
-            //When Update Chef Button is clicked
+            //When Update Chef Button is clickeds!
             if (e.getActionCommand().equals("Delete Chef Record")) {
                 DeleteChefGUI deleteChefGUI = new DeleteChefGUI();
                 deleteChefGUI.setGUI();
