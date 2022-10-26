@@ -7,11 +7,13 @@ package za.ac.cput;
 */
 
 
+import za.ac.cput.gui.main.RestaurantSystemGUI;
+
 public class main {
 
     public static void main(String[] args) {
-        //MainGUI mainGUI = new MainGUI();
-       // mainGUI.setGUI();
+        RestaurantSystemGUI mainGUI = new RestaurantSystemGUI();
+        mainGUI.setGUI();
     }
 
 
